@@ -1,1 +1,1 @@
-#blot-them
+#blot-theme
